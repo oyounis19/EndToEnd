@@ -303,7 +303,7 @@ html.mobile-menu-opened.sticky-header-active #header.header-transparent .header-
 .approach-img {
 		position: relative;
 		display: block;
-		background-image: url("../../img/demos/digital-agency-2/bg/bg-3.png");
+		background-image: url("../../img/homePage/bg-3.png");
 		background-repeat: no-repeat;
 		border-radius: 50%;
 		min-width: 355px;
@@ -335,7 +335,7 @@ html.mobile-menu-opened.sticky-header-active #header.header-transparent .header-
 		top: 50%;
 		left: 50%;
 		transform: translate(-50%, -50%);
-		background-image: url(../../img/demos/digital-agency-2/bg/bg-3.png);
+		background-image: url("../../img/homePage/bg-3.png");
 		background-position: center;
 		background-size: 500px;
 }
