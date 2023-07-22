@@ -606,7 +606,7 @@ html .bg-color-hover-before-tertiary:hover::before {
 
 html .bg-color-quaternary,
 html .bg-quaternary {
-	background-color: #777777 !important;
+	background-color: #ccc !important;
 }
 
 html .bg-color-hover-quaternary:hover,
