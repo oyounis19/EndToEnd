@@ -7494,3 +7494,14 @@ ul.comments .comment-block,
 		border-radius: 0;
 	}
 }
+
+button[type="button"][role="presentation"].owl-prev,
+button[type="button"][role="presentation"].owl-next {
+	border-radius: 100% !important; /*ADDED by OY*/
+	transition: all 0.2s;
+}
+
+button[type="button"][role="presentation"].owl-prev:hover,
+button[type="button"][role="presentation"].owl-next:hover {
+	background-color: #293323 !important; /*ADDED by OY*/
+}
