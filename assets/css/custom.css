@@ -13,3 +13,12 @@ h4.colchange {
       color: #292929 !important; /* Black or another dark color of your choice */
     }
   }
+
+@media (max-width: 767px){
+    .owl-carousel.nav-style-4 .owl-nav .owl-next {
+        right: 28px;
+    }
+    .owl-carousel.nav-style-4 .owl-nav .owl-prev {
+        left: 3px;
+    }
+}
