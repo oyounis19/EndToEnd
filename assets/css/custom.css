@@ -1,0 +1,15 @@
+a.bookDemo{
+    width: 130px;
+    padding: 0.5rem 0.9rem !important; 
+    margin-left: 8px; 
+    margin-bottom: 8px;
+}
+h4.colchange {
+    color: #ccc !important; /* Black or another dark color of your choice */
+  }
+/* Change color when screen width is less than 1200px */
+@media (max-width: 1199px) {
+    h4.colchange {
+      color: #292929 !important; /* Black or another dark color of your choice */
+    }
+  }

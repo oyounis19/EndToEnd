@@ -112,15 +112,15 @@ a {
 }
 
 a:hover {
-	color: #ea2955;
+	color: var(--primary);/* Edited*/
 }
 
 a:focus {
-	color: #ea2955;
+	color: #var(--primary);
 }
 
 a:active {
-	color: #cd143e;
+	color: #var(--primary);
 }
 
 html .text-color-primary,
@@ -1217,7 +1217,7 @@ html .btn-primary.focus {
 
 html .btn-primary:focus:not(.bg-transparent),
 html .btn-primary.focus:not(.bg-transparent) {
-	background-color: #c1133a;
+	background-color: var(--primary);
 }
 
 html .btn-primary.disabled,
