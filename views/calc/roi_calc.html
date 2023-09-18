@@ -364,29 +364,35 @@
 			</footer>
 		</div>
         <script>
-            // Get references to the input elements
-            const salaryInput = document.getElementById('salary');
-            const numHiresInput = document.getElementById('numHires');
-            const advancementRateInput = document.getElementById('advancementRate');
-            const roiResult = document.getElementById('roiResult');
+            const jobLevelInput = document.getElementById('jobLevel');
+			const salaryInput = document.getElementById('salary');
+			const numHiresInput = document.getElementById('numHires');
+			const assessmentTypeInput = document.getElementById('assessmentType');
+			const advancementRateInput = document.getElementById('advancementRate');
+			const roiResult = document.getElementById('roiResult');
 
             // Function to calculate ROI based on the provided inputs
             function calculateROI() {
-            const salary = parseFloat(salaryInput.value);
-            const numHires = parseInt(numHiresInput.value);
-            const advancementRate = parseFloat(advancementRateInput.value);
+				const jobLevel = jobLevelInput.value;
+				const salary = parseFloat(salaryInput.value);
+				const numHires = parseInt(numHiresInput.value);
+				const assessmentType = assessmentTypeInput.value;
+				const advancementRate = parseFloat(advancementRateInput.value);
 
-            // Calculate the annual salary cost for improved hires
-            const annualSalaryCost = salary * numHires * 12;
+				// Start Calculations
+				// Calculate the annual salary cost for improved hires
+				// const annualSalaryCost = salary * numHires * 12;
+				
+				// // Calculate the annual revenue from improved hires
+				// const annualRevenue = (salary * numHires * (advancementRate / 100)) * 12;
+				
+				// // Calculate ROI
+				// const estimatedROI = annualRevenue - annualSalaryCost;
+				
+				// End Calculations
 
-            // Calculate the annual revenue from improved hires
-            const annualRevenue = (salary * numHires * (advancementRate / 100)) * 12;
-
-            // Calculate ROI
-            const estimatedROI = annualRevenue - annualSalaryCost;
-
-            // Format and display the result
-            roiResult.textContent = `Projected Gains (above Assessment costs) $${estimatedROI.toFixed(2)}`;
+				// Format and display the result
+				roiResult.textContent = `Projected Gains (above Assessment costs) $${estimatedROI.toFixed(2)}`;
             }
 
             // Add event listeners to input elements
