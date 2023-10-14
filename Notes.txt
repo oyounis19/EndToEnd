@@ -1,0 +1,105 @@
+* Footer links not working
+* Sign up form in the footer??
+* Navbar: No industries or industries_single link available
+* Can't access Products or Products single from navbar
+
+Index:
+    1- Banner background image.
+    2- why choose end to end section font adjustment 
+    3- Insights link in navbar not working
+
+About:
+    1- Banner color too dark
+    2- Get in touch link not working
+    3- View more link not working (Our insights section)
+
+Blogs:
+    1- Banner color & image too dark
+
+Blogs single:
+    1- Banner color & image too dark
+    2- Will the blog author be shown?
+    3- Banner title adjustment: HOME / OUR INSIGHTS
+    4- All nav bar not working
+
+ROI Calculator:
+    1- Fucked.
+
+Contact:
+    1- Banner مطرشم
+
+Book Demo:
+    1- Banner color & image too dark
+    2- Book now button turns pink on hover
+
+FAQs:
+    1- Banner color too dark
+    2- Huge space between bannar and rest of the page
+    3- Contact us button turns pink on hover
+    4- Huge space below the questions section
+
+Industries Single:
+    1- Banner color too dark
+    2- literally FAQS page with some text above the questions WTF bro.
+    3- Huge space below the questions section
+    4- See solutions button turns pink on hover
+
+
+Industries:
+    1- Banner color too dark
+    2- See solutions button turns pink on hover
+    3- last section too close to the "Let’s Get in Touch" section
+    4- Nav bar contact us not working
+
+Insights: 
+    1- Same as Blogs
+
+Insights single:
+    1- Same as Blogs single
+
+Product Single: 
+    1- Different style than the other pages
+    2- See solutions button turns pink on hover
+    3- Text aren't aligned perfectly
+
+Product:
+    1- Banner color too dark
+    2- what is the Image Background section
+    3- cards in the cards section aren't aligned to the middle
+    4- See solutions button turns pink on hover
+
+Project Single:
+    1- Banner color too dark
+
+Project:
+    1- Banner color & image too dark
+    2- Project links doesn't go to project single page
+
+Services:
+    1- testimonals are Lorem ipsum
+    2- Banner color & image too dark
+    3- white shit covering Leadership Development
+
+Solutions single:
+    1- Navbar not working
+    2- Banner color too dark
+    3- no background image for the "Let’s Get in Touch" section
+    4- let's talk link not working
+
+Solutions:
+    1- Banner color & image too dark
+    2- Too small like your DICK
+
+Training calender single:
+    1- Banner color too dark
+    2- title adjustement
+    3- reserve seat & inquire course buttons what do they do
+    4- Navbar not working
+
+Training calender:
+    1- Banner color too dark
+    2- Too small like your DICK
+
+Vendors:
+    1- Banner color & image too dark
+    2- مطرشمه مووووووت (انا اللي عاملها)
