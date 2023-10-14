@@ -1205,7 +1205,7 @@ html .btn-primary.hover {
 
 html .btn-primary:hover:not(.bg-transparent),
 html .btn-primary.hover:not(.bg-transparent) {
-	background-color: #eb355e;
+	background-color: #285c2f;
 }
 
 html .btn-primary:focus,
